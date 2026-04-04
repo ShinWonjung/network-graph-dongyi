@@ -1,6 +1,9 @@
 # 대본 데이터 (저작권)
 data/
 
+# html 폴더
+html/
+
 # Jupyter 체크포인트
 .ipynb_checkpoints/
 
